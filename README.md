@@ -1,6 +1,4 @@
 #My Completly awesome ToDO WebApp Hope Ya Likey
 <br />
 
-https://david-dm.org/
-DarkFoxh4ck3r/toDoWebApp
-.svg 
+<img src="https://david-dm.org/DarkFoxh4ck3r/toDoWebApp.svg">
